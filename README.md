@@ -1,4 +1,3 @@
-# Challenge ForumHub
 ## <h1>Challenge Forum Hub</h1>
 ## Objetivos: 
 Um fórum é um espaço onde todos os participantes de uma plataforma podem colocar suas perguntas sobre determinados assuntos. Aqui na Alura, os alunos e alunas utilizam o fórum para tirar suas dúvidas sobre os cursos e projetos em que estão participando. Este lugar mágico está cheio de muita aprendizagem e colaboração entre alunos, professores e moderadores.
